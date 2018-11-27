@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quick Contact</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="title_activity_formulario" translatable="false">Form</string>
+    <string name="nome" translatable="false">NAME</string>
+    <string name="e_mail" translatable="false">E-MAIL</string>
+    <string name="endere_o" translatable="false">ADDRESS</string>
+    <string name="telefone" translatable="false">TELEPHONE:</string>
+</resources>

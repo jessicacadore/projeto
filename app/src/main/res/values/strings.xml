@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">Quick Contact</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="title_activity_formulario" translatable="false">Formulario</string>
+    <string name="endere_o" translatable="false">ENDEREÇO</string>
+    <string name="e_mail" translatable="false">E-MAIL:</string>
+    <string name="nome" translatable="false">NOME:</string>
+    <string name="telefone">TELEFONE:</string>
+    <string name="txtSplash" />
+</resources>
